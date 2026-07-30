@@ -6,7 +6,7 @@
 1. Scarica dalla sezione **Releases** il file dell'add-in adatto alla tua versione di Excel:
    - `Contexl-Addin-x64.xll` → Excel **64 bit** (la più diffusa)
    - `Contexl-Addin-x86.xll` → Excel **32 bit**
-2. Copia il file in una cartella stabile del tuo PC, ad esempio `C:\Add-in Excel\`.
+2. Copia il file in una cartella stabile del tuo PC, ad esempio `C:\Downloads\`.
 3. Apri Excel e vai su **File → Opzioni → Componenti aggiuntivi**.
 4. In fondo alla finestra, nel menu **Gestisci**, scegli **Componenti aggiuntivi di Excel** e premi **Vai…**.
 5. Premi **Sfoglia…**, seleziona il file `.xll` e conferma con **OK**.    

@@ -1,13 +1,18 @@
 # Contexl addin per excel  
 ## aiutoFiscale
-Scegliere la versione a 32 bit o a 64 bit a seconda della versione di Excel installata nel sistema.   
-Per installare l'add-in, una volta scaricata la versione adatta, apri **Excel** -> **File** -> **Opzioni** -> **Componenti aggiuntivi**.   
-In basso a fianco a `Gestisci:` verificare che sia abilitata la voce `Componenti aggiuntivi di Excel` e cliccare sul pulsante `Vai...`   
-Nella finestra che si apre, clicca sul pulsante `Sfoglia...` e cerca il file xll nella cartella dove si è scaricato e quindi selezionarlo.   
-Chiudi la finestra cliccando sul pulsante `Ok`.   
+
+## 🚀 Installazione
+
+1. Scarica dalla sezione **Releases** il file dell'add-in adatto alla tua versione di Excel:
+   - `Contexl-Addin-x64.xll` → Excel **64 bit** (la più diffusa)
+   - `Contexl-Addin-x86.xll` → Excel **32 bit**
+2. Copia il file in una cartella stabile del tuo PC, ad esempio `C:\Add-in Excel\`.
+3. Apri Excel e vai su **File → Opzioni → Componenti aggiuntivi**.
+4. In fondo alla finestra, nel menu **Gestisci**, scegli **Componenti aggiuntivi di Excel** e premi **Vai…**.
+5. Premi **Sfoglia…**, seleziona il file `.xll` e conferma con **OK**.    
 
 💡 **Modo rapido:** puoi anche fare doppio clic sul file `.xll`. Le funzioni saranno disponibili solo per la sessione di Excel aperta in quel momento.   
-> ⚠️ Se dopo il download Windows blocca il file, fai clic destro → **Proprietà** → spunta **Annulla blocco** → **OK**.
+> ⚠️ Se dopo il download Windows blocca il file, fai clic destro → **Proprietà** → spunta **Annulla blocco** → **OK**.   
 
 **Come verificare che funzioni:** in una cella qualsiasi scrivi `=FISCO.IVA(1000)` e premi Invio. Se compare `220`, l'installazione è riuscita 🎉   
 

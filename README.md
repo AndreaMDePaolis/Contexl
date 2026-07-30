@@ -12,7 +12,7 @@
 5. Premi **Sfoglia…**, seleziona il file `.xll` e conferma con **OK**.    
 
 💡 **Modo rapido:** puoi anche fare doppio clic sul file `.xll`. Le funzioni saranno disponibili solo per la sessione di Excel aperta in quel momento.   
-> ⚠️ Se dopo aver seguito le indicazioni, Windows blocca il file e [appare una messaggio come questo](blocco.png), fai clic destro sul file scaricato → **Proprietà** → spunta **Annulla blocco** → **OK**.   
+> ⚠️ Se dopo aver seguito le indicazioni, Windows blocca il file e [appare una messaggio come questo](blocco_w.png), fai clic destro sul file scaricato → **Proprietà** → spunta **Annulla blocco** → **OK**.   
 
 **Come verificare che funzioni:** in una cella qualsiasi scrivi `=FISCO.IVA(1000)` e premi Invio. Se compare `220`, l'installazione è riuscita 🎉   
 

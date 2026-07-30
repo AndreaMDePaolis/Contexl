@@ -19,4 +19,4 @@
 **Per chi non ha installato .NET 10**, può scaricare il runtime (pochi MB) dal sito di Microsoft per la [versione a 64 bit](https://dotnet.microsoft.com/it-it/download/dotnet/thank-you/runtime-desktop-10.0.10-windows-x64-installer) o [qui a 32bit](https://dotnet.microsoft.com/it-it/download/dotnet/thank-you/runtime-desktop-10.0.10-windows-x86-installer).   
 
 ⚠️ **ATTENZIONE**   
-Nel file Excel fornito come esempio, le formule sono volutamente non pre-calcolate: i valori delle funzioni personalizzate possono essere prodotti solo da Excel con l'add-in caricato. All'apertura vedrai #NOME? finché l'.xll non è attivo — poi basta Ctrl + Alt + F9 e tutto si popola.
+Nel [file Excel](aiutoFiscale-Contexl-AddIn-Esempi.xlsx) fornito come esempio, le formule sono volutamente non pre-calcolate: i valori delle funzioni personalizzate possono essere prodotti solo da Excel con l'add-in caricato. All'apertura vedrai #NOME? finché l'.xll non è attivo — poi basta Ctrl + Alt + F9 e tutto si popola.
